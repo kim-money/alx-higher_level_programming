@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""this module defines a Rectangle subclass Square"""
+"""this module defines a Rectangle subclass Square. represent a square then init size(int) for size on=f new square"""
 Rectangle = __import__('9-rectangle').Rectangle
 
 
