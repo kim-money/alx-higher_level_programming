@@ -1,0 +1,3 @@
+trial test for 0-rectangle
+__________________________
+
