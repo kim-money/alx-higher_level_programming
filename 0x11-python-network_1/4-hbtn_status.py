@@ -1,6 +1,7 @@
 #!/usr/bin/python3
-"""fetches https://intranet.hbtn.io/status."""
+"""fetches  https://intranet.hbtn.io/status. q4"""
 import requests
+
 
 
 if __name__ == "__main__":
